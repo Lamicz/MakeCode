@@ -1,3 +1,5 @@
+// for Adafruit Gemma M0 (ARM Cortex M0)
+
 let i: int16 = 0
 let x: int16 = 0
 let y: uint8 = 0
