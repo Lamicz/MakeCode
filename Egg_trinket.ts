@@ -1,3 +1,5 @@
+// for Adafruit Trinket M0 (ARM Cortex M0)
+
 let pixelCurrentMode: uint8 = 0 // [0 - no flash, 1 - flash, 2 - only flash, 3 - RGB]
 let stripCurrentModeTimerSet: uint8 = 30
 let pixelSpeedTrigger: boolean = false
